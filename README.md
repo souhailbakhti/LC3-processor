@@ -12,7 +12,7 @@ http://www.cburch.com/logisim/download.html
 
 
 
-```html
+
 
 <table align="center" border="1" cellpadding="2" cellspacing="0">
   <tr>
@@ -237,4 +237,4 @@ http://www.cburch.com/logisim/download.html
     <td colspan="12"></td>
   </tr>
 </table>
-```
+
