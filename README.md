@@ -5,11 +5,16 @@ This Project Contain The Desing and architecure of LC3 micro-processor with samp
 
 In this project i'm using Logisim to Design and Simulate LC3 Processosr.
 
-you can download Logisim for this Link : 
+you can download Logisim from this Link : 
 
 http://www.cburch.com/logisim/download.html
 
+and you can download LC3 simulator from this Link: 
 
+http://www.cis.upenn.edu/~milom/cse240-Fall05/handouts/lc3guide.html
+
+
+LC3-instructions :
 
 <table  border="1" cellpadding="2" cellspacing="0">
   <tr>
