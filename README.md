@@ -11,9 +11,6 @@ http://www.cburch.com/logisim/download.html
 
 
 
-
-
-
 <table align="center" border="1" cellpadding="2" cellspacing="0">
   <tr>
     <th>Syntaxe</th>
@@ -230,7 +227,7 @@ http://www.cburch.com/logisim/download.html
     <td colspan="8">Trapvect8</td>
   </tr>
   <tr align="center">
-    <td align="left">Réservé</td>
+    <td align="left">Reserved</td>
     <td align="left"></td>
     <td></td>
     <td colspan="4">1 1 0 1</td>
